@@ -1,3 +1,1 @@
-# hello-world
-My first github repository :)
-Aún estoy leyendo la guía
+# Text Mining and Sentiment Analysis
